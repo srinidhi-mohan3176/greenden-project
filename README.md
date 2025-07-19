@@ -1,38 +1,25 @@
-🌿 Greenden - Plant Shop Website
-Greenden is a clean, responsive, and interactive plant shop website built using HTML, Tailwind CSS, and JavaScript. It features a modern design, smooth layout sections, and dynamic interactivity to enhance user experience.
+# 🌿 Greenden - Plant Shop Website
 
-📁 Project Structure
+Greenden is a clean and responsive plant shop website built using **HTML**, **Tailwind CSS**, and **JavaScript**. It features a modern design with smooth layout sections for showcasing products and connecting with customers.
+
+## 📁 Project Structure
+
 The website includes the following main pages:
 
-Home – A welcoming landing page with a hero section and featured highlights.
+- **Home** – A welcoming landing page with a hero section and featured highlights.  
+- **Product** – Displays a collection of plants and indoor greenery with stylish cards.  
+- **Contact** – A simple and elegant contact section for users to reach out.
 
-Product – A grid-style collection of indoor plants with a real-time search filter.
+## 💡 Features
 
-Contact – A simple and elegant contact form to connect with users.
+- 🌱 Fully responsive layout  
+- 🖌️ Styled using Tailwind CSS utility classes  
+- ⚡ Fast and lightweight  
+- 📱 Mobile-friendly design  
+- 🧩 Easy to customize  
 
-💡 Features
-🌱 Fully responsive layout
+## 🛠️ Tech Stack
 
-🖌️ Styled with Tailwind CSS utility classes
-
-⚡ Fast and lightweight
-
-📱 Mobile-friendly sidebar navigation
-
-🔍 Live product search using JavaScript
-
-🧩 Easy to customize and extend
-
-🛠️ Tech Stack
-HTML5
-
-Tailwind CSS (via CDN)
-
-Vanilla JavaScript
-
-🧠 JavaScript Functionality
-Interactive Navbar – Hamburger menu opens/closes a mobile sidebar.
-
-Product Search – Live filtering of products as you type.
-
-Responsive UI Behaviors – Dynamic content show/hide using DOM manipulation.
+- HTML5  
+- Tailwind CSS (via CDN)  
+- JavaScript
